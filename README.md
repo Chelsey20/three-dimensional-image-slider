@@ -13,16 +13,16 @@
 ✅ Minimalist & Modern Design
 
 ## Preview
-🔗 Live Demo (Replace with your deployed link, e.g., GitHub Pages, Vercel, or Netlify)
+[🔗 Live Demo](https://chelsey20.github.io/three-dimensional-image-slider/) : https://chelsey20.github.io/three-dimensional-image-slider/
 
 ## Installation
 Clone the repository:
 
-sh
-Copy
-Edit
-git clone https://github.com/your-username/3d-card-slider.git
-Open index.html in a browser.
+1. sh
+2. Copy
+3. Edit
+4. git clone https://github.com/your-username/3d-card-slider.git
+5. Open index.html in a browser.
 
 ## Technologies Used
 HTML5 for structure
